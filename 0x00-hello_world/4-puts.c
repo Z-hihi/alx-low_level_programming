@@ -1,13 +1,9 @@
 #include <stdio.h>
 /**
- * The main function of the program.
+ * main -print a line of code using puts
  *
- * This function prints the string "Programming is like building a multilingual puzzle" to the console
- * using the `puts` function.
- *
- * @return 0 indicating success
- */
-
+ * Retun: 0
+*/
 
 int main(void)
 {
