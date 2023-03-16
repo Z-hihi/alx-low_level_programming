@@ -1,12 +1,9 @@
 #include <stdio.h>
-/**
+/*
  * The main function of the program.
  *
- * This function prints the string "Hello, world!" to the console
- * using the `puts` function.
- *
- * @return 0 indicating success
- */
+ * Return: 0
+*/
 
 int main(void)
 {
