@@ -1,0 +1,17 @@
+#include "main.h"
+/**
+ * print_most - print numbers 0 - 9 not 2 and 4
+ * Return: Alway 0
+ */
+void print_most_numbers(void)
+{
+	int m;
+
+	for (m = 0; m <= 9; m++)
+	{
+		if (m == 2 || m == 4)
+			continue;
+		_putchar(m + 48);
+	}
+	_putchar('\n');
+}	
