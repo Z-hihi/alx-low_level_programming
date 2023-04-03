@@ -1,0 +1,1 @@
+more pointeres arrays strings
