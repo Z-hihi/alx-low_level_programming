@@ -7,7 +7,7 @@
  * @owner: owner of dog
  * Return: pointer to dog
  */
-dog_t *new_dog(char *name, float age, char *owner);
+dog_t *new_dog(char *name, float age, char *owner)
 {
 	unsigned int i, j, k;
 	dog_t *dog;
